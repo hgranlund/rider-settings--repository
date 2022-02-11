@@ -1,8 +1,0 @@
-<keymap version="1" name="VSCode (Migrated)" parent="VSCode">
-  <action id="CommentByLineComment">
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl c" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl u" />
-    <keyboard-shortcut first-keystroke="ctrl slash" />
-    <keyboard-shortcut first-keystroke="shift ctrl 7" />
-  </action>
-</keymap>
