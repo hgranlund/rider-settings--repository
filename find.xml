@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'AMeldingInnhenter.cs'" />
-    <option name="defaultScopeName" value="File 'AMeldingInnhenter.cs'" />
-    <option name="SEARCH_SCOPE" value="File 'AMeldingInnhenter.cs'" />
+    <option name="customScope" value="File 'NårAlleTjenesterErOppeSenario.cs'" />
+    <option name="defaultScopeName" value="File 'NårAlleTjenesterErOppeSenario.cs'" />
+    <option name="SEARCH_SCOPE" value="File 'NårAlleTjenesterErOppeSenario.cs'" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
