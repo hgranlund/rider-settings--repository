@@ -1,0 +1,5 @@
+<keymap version="1" name="VSCode copy" parent="VSCode">
+  <action id="RiderUnitTestRunTreeSplitAction">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" second-keystroke="l" />
+  </action>
+</keymap>
