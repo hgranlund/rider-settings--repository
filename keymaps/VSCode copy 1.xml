@@ -1,0 +1,11 @@
+<keymap version="1" name="VSCode copy 1" parent="VSCode">
+  <action id="DatabaseView.DeactivateAction" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
+  <action id="Docker.RemoteServers.StopComposeService" />
+  <action id="Docker.RemoteServers.StopContainer" />
+  <action id="Graph.ApplyCurrentLayout" />
+  <action id="RunDashboard.Stop" />
+  <action id="Stop" />
+</keymap>
