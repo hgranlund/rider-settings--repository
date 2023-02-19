@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://udi.no/Common/v2" location="C:/depot/STB" />
+    <ignored-resource url="http://schemas.xmlsoap.org/soap/envelope/" />
+    <ignored-resource url="http://udi.no/Common/v2" />
+  </component>
+</application>
