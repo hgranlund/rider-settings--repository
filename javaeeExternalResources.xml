@@ -2,10 +2,13 @@
   <component name="ExternalResourceManagerImpl">
     <resource url="http://udi.no/Common/v2" location="C:/depot/STB" />
     <ignored-resource url="http://schemas.xmlsoap.org/soap/envelope/" />
+    <ignored-resource url="http://udi.no/Common/Data/v3" />
     <ignored-resource url="http://udi.no/Common/Data/v4" />
     <ignored-resource url="http://udi.no/Common/Data/v6" />
     <ignored-resource url="http://udi.no/Common/v2" />
     <ignored-resource url="http://udi.no/Common_Technical/v2" />
+    <ignored-resource url="http://udi.no/MT_1005_Person/Parameter/v5" />
+    <ignored-resource url="http://udi.no/MT_1005_Person/v5" />
     <ignored-resource url="http://udi.no/MT_1009_Dokument/Parameter/v3" />
     <ignored-resource url="http://udi.no/MT_1009_Dokument/v3" />
     <ignored-resource url="http://udi.no/MT_1015_Oppholdsstatus/Parameter/v6" />
