@@ -7,6 +7,7 @@
     <ignored-resource url="http://udi.no/Common/Data/v6" />
     <ignored-resource url="http://udi.no/Common/v2" />
     <ignored-resource url="http://udi.no/Common_Technical/v2" />
+    <ignored-resource url="http://udi.no/MT_1004_OrgPerson/Parameter/v3" />
     <ignored-resource url="http://udi.no/MT_1005_Person/Parameter/v5" />
     <ignored-resource url="http://udi.no/MT_1005_Person/v5" />
     <ignored-resource url="http://udi.no/MT_1009_Dokument/Parameter/v3" />
